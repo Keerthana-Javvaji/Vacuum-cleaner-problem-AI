@@ -8,3 +8,6 @@ Developed a simple problem solving reflex agent program in Python for the vacuum
 2. Enter Status O/1 accordingly where 0 means CLEAN and 1 means DIRTY.
 
 3. Vacuum Cleaner senses the status of the other room before performing any action, also known as Environment sensing.
+
+<h1> Output</h1>
+https://colab.research.google.com/drive/1oW6-BynOXgUT67FtnQQLXgcB-RUwyMr0?usp=sharing
